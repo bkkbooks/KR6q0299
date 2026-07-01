@@ -1,0 +1,1488 @@
+canonical_identifier: bkk:krp/KR6q0299/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0299/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 北磵居簡禪師語錄
+  identifiers:
+    krp: KR6q0299
+    cbeta: X69n1365
+    cbeta_old_id: X69n1365
+    authorityid: CA0000288
+    json_key: X1365
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1365.xml
+    old_id: X69n1365
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0299_000-X.yaml, hash: 'sha256:c0a86dc6254be7319fa78f960a7d46c5ba3dcb1ce7497009b6291abd2863ca86'}
+  - {seq: 1, filename: KR6q0299_001-X.yaml, hash: 'sha256:718d3ec8900f5c730e608ccc7432390d2e5448894290d886cc947bafbbb1883a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0299_000-X.markers.yaml, hash: 'sha256:51154fabd7fba1b7e16505b156f876cacc4701570bc306ce21f9d0ae2ebf843d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0299_001-X.markers.yaml, hash: 'sha256:ac930f8d4187fd95cf7fc4b95938b03597075e4af0d1227e9da2d68aaf90347f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0299_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1365-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0299_X_000-mulu-2
+    span:
+    - front
+    - 213
+    - 213
+  label: No. 1365-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0299_X_000-mulu-3
+    span:
+    - front
+    - 369
+    - 369
+  label: No. 1365-C
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0299_X_000-mulu-4
+    span:
+    - front
+    - 453
+    - 453
+  label: 北磵和尚語錄目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22891
+  label: 北磵和尚語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 北磵和尚初住台州般若禪院語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-3
+    span:
+    - body
+    - 37
+    - 37
+  label: 法座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-4
+    span:
+    - body
+    - 65
+    - 65
+  label: 祝香
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-5
+    span:
+    - body
+    - 118
+    - 118
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-6
+    span:
+    - body
+    - 760
+    - 760
+  label: 台州報恩光孝禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-7
+    span:
+    - body
+    - 775
+    - 775
+  label: 三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-8
+    span:
+    - body
+    - 792
+    - 792
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-9
+    span:
+    - body
+    - 819
+    - 819
+  label: 拈帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-10
+    span:
+    - body
+    - 858
+    - 858
+  label: 拈衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-11
+    span:
+    - body
+    - 884
+    - 884
+  label: 法座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-12
+    span:
+    - body
+    - 926
+    - 926
+  label: 祝香
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-13
+    span:
+    - body
+    - 1012
+    - 1012
+  label: 提綱(問答不錄)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-14
+    span:
+    - body
+    - 1258
+    - 1258
+  label: 當晚小參(問答不錄)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-15
+    span:
+    - body
+    - 1366
+    - 1366
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-16
+    span:
+    - body
+    - 3109
+    - 3109
+  label: 湖州鐵觀音禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-17
+    span:
+    - body
+    - 3123
+    - 3123
+  label: 三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-18
+    span:
+    - body
+    - 3151
+    - 3151
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-19
+    span:
+    - body
+    - 3171
+    - 3171
+  label: 提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-20
+    span:
+    - body
+    - 3342
+    - 3342
+  label: 當晚小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-21
+    span:
+    - body
+    - 3395
+    - 3395
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-22
+    span:
+    - body
+    - 3845
+    - 3845
+  label: 湖州西余大覺禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-23
+    span:
+    - body
+    - 3860
+    - 3860
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-24
+    span:
+    - body
+    - 3876
+    - 3876
+  label: 拈疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-25
+    span:
+    - body
+    - 3901
+    - 3901
+  label: 法座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-26
+    span:
+    - body
+    - 3927
+    - 3927
+  label: 提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-27
+    span:
+    - body
+    - 4068
+    - 4068
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-28
+    span:
+    - body
+    - 4547
+    - 4547
+  label: 安吉州思溪圓覺禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-29
+    span:
+    - body
+    - 4563
+    - 4563
+  label: 佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-30
+    span:
+    - body
+    - 4581
+    - 4581
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-31
+    span:
+    - body
+    - 4597
+    - 4597
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-32
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 寧國府彰教禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-33
+    span:
+    - body
+    - 5666
+    - 5666
+  label: 常州顯慶禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-34
+    span:
+    - body
+    - 5679
+    - 5679
+  label: 三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-35
+    span:
+    - body
+    - 5699
+    - 5699
+  label: 佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-36
+    span:
+    - body
+    - 5721
+    - 5721
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-37
+    span:
+    - body
+    - 5742
+    - 5742
+  label: 法座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-38
+    span:
+    - body
+    - 5775
+    - 5775
+  label: 提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-39
+    span:
+    - body
+    - 5917
+    - 5917
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-40
+    span:
+    - body
+    - 6343
+    - 6343
+  label: 常州碧雲崇明禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-41
+    span:
+    - body
+    - 6358
+    - 6358
+  label: 三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-42
+    span:
+    - body
+    - 6380
+    - 6380
+  label: 佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-43
+    span:
+    - body
+    - 6404
+    - 6404
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-44
+    span:
+    - body
+    - 6426
+    - 6426
+  label: 拈帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-45
+    span:
+    - body
+    - 6474
+    - 6474
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-46
+    span:
+    - body
+    - 7529
+    - 7529
+  label: 平江府常熟縣惠日禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-47
+    span:
+    - body
+    - 8385
+    - 8385
+  label: 安吉州道場山護　聖萬歲禪院語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-48
+    span:
+    - body
+    - 9266
+    - 9266
+  label: 臨安府淨慈山報恩光孝禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-49
+    span:
+    - body
+    - 9285
+    - 9285
+  label: 佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-50
+    span:
+    - body
+    - 9311
+    - 9311
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-51
+    span:
+    - body
+    - 9344
+    - 9344
+  label: 祝香
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-52
+    span:
+    - body
+    - 9446
+    - 9446
+  label: 升座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-53
+    span:
+    - body
+    - 9652
+    - 9652
+  label: 當晚小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-54
+    span:
+    - body
+    - 9733
+    - 9733
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-55
+    span:
+    - body
+    - 11524
+    - 11524
+  label: 小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-56
+    span:
+    - body
+    - 13107
+    - 13107
+  label: 秉拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-57
+    span:
+    - body
+    - 13717
+    - 13717
+  label: 告香普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-58
+    span:
+    - body
+    - 15220
+    - 15220
+  label: 法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-59
+    span:
+    - body
+    - 16251
+    - 16251
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-60
+    span:
+    - body
+    - 17554
+    - 17554
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-61
+    span:
+    - body
+    - 17556
+    - 17556
+  label: 送濟東巖歸鄉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-62
+    span:
+    - body
+    - 17590
+    - 17590
+  label: 送丙上人(曾聽請)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-63
+    span:
+    - body
+    - 17625
+    - 17625
+  label: 送覺藏主歸華藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-64
+    span:
+    - body
+    - 17660
+    - 17660
+  label: 送明上人歸洞庭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-65
+    span:
+    - body
+    - 17695
+    - 17695
+  label: 送正法悟無證(得華嚴閣下朝旨歸)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-66
+    span:
+    - body
+    - 17737
+    - 17737
+  label: 示照上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-67
+    span:
+    - body
+    - 17769
+    - 17769
+  label: 示鑒上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-68
+    span:
+    - body
+    - 17801
+    - 17801
+  label: 獨庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-69
+    span:
+    - body
+    - 17831
+    - 17831
+  label: 放塘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-70
+    span:
+    - body
+    - 17861
+    - 17861
+  label: 六解一亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-71
+    span:
+    - body
+    - 17893
+    - 17893
+  label: 化鬮拈千手大悲像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-72
+    span:
+    - body
+    - 17929
+    - 17929
+  label: 示僧(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-73
+    span:
+    - body
+    - 17988
+    - 17988
+  label: 漆匠求頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-74
+    span:
+    - body
+    - 18012
+    - 18012
+  label: 弁淨人奉辟支佛牙求度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-75
+    span:
+    - body
+    - 18050
+    - 18050
+  label: 書圓正法語後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-76
+    span:
+    - body
+    - 18084
+    - 18084
+  label: 頑極(天童彌藏主)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-77
+    span:
+    - body
+    - 18119
+    - 18119
+  label: 示如石上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-78
+    span:
+    - body
+    - 18152
+    - 18152
+  label: 方上人上蔣山兼寄癡絕頑石
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-79
+    span:
+    - body
+    - 18220
+    - 18220
+  label: 贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-80
+    span:
+    - body
+    - 18221
+    - 18221
+  label: 出山相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-81
+    span:
+    - body
+    - 18252
+    - 18252
+  label: 常思惟大士(十二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-82
+    span:
+    - body
+    - 18562
+    - 18562
+  label: 布袋(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-83
+    span:
+    - body
+    - 18733
+    - 18733
+  label: 問疾維摩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-84
+    span:
+    - body
+    - 18757
+    - 18757
+  label: 須菩提
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-85
+    span:
+    - body
+    - 18780
+    - 18780
+  label: 寒山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-86
+    span:
+    - body
+    - 18798
+    - 18798
+  label: 草衣文殊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-87
+    span:
+    - body
+    - 18835
+    - 18835
+  label: 馬郎婦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-88
+    span:
+    - body
+    - 18866
+    - 18866
+  label: 靈照女
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-89
+    span:
+    - body
+    - 18897
+    - 18897
+  label: 穿破衲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-90
+    span:
+    - body
+    - 18920
+    - 18920
+  label: 了殘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-91
+    span:
+    - body
+    - 18943
+    - 18943
+  label: 初祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-92
+    span:
+    - body
+    - 18973
+    - 18973
+  label: 為癡絕和尚贊初祖達磨并馬大師畫象
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-93
+    span:
+    - body
+    - 19186
+    - 19186
+  label: 普化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-94
+    span:
+    - body
+    - 19216
+    - 19216
+  label: 趙州
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-95
+    span:
+    - body
+    - 19254
+    - 19254
+  label: 臨濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-96
+    span:
+    - body
+    - 19308
+    - 19308
+  label: 楊歧(嵓雪巢索以三脚驢金剛圈栗棘蓬三物為犯禁云)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-97
+    span:
+    - body
+    - 19374
+    - 19374
+  label: 為癡絕和尚贊三睡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-98
+    span:
+    - body
+    - 19402
+    - 19402
+  label: 東山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-99
+    span:
+    - body
+    - 19444
+    - 19444
+  label: 永明壽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-100
+    span:
+    - body
+    - 19528
+    - 19528
+  label: 大慧師祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-101
+    span:
+    - body
+    - 19627
+    - 19627
+  label: 智者大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-102
+    span:
+    - body
+    - 19675
+    - 19675
+  label: 密庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-103
+    span:
+    - body
+    - 19724
+    - 19724
+  label: 拙庵(倚松看經象)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-104
+    span:
+    - body
+    - 19750
+    - 19750
+  label: 自贊(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-105
+    span:
+    - body
+    - 19825
+    - 19825
+  label: 題慈觀長老求贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-106
+    span:
+    - body
+    - 19892
+    - 19892
+  label: 小師求贊(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-107
+    span:
+    - body
+    - 19946
+    - 19946
+  label: 小佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-108
+    span:
+    - body
+    - 19949
+    - 19949
+  label: 侃侍者下火(書經)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-109
+    span:
+    - body
+    - 19999
+    - 19999
+  label: 賢東堂下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-110
+    span:
+    - body
+    - 20057
+    - 20057
+  label: 鑑侍者下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-111
+    span:
+    - body
+    - 20120
+    - 20120
+  label: 昇首座下火(雪中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-112
+    span:
+    - body
+    - 20218
+    - 20218
+  label: 如庵主入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-113
+    span:
+    - body
+    - 20251
+    - 20251
+  label: 標監寺下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-114
+    span:
+    - body
+    - 20340
+    - 20340
+  label: 容直歲下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-115
+    span:
+    - body
+    - 20389
+    - 20389
+  label: 明水頭下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-116
+    span:
+    - body
+    - 20462
+    - 20462
+  label: 佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-117
+    span:
+    - body
+    - 20464
+    - 20464
+  label: 千金璿寺主起龕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-118
+    span:
+    - body
+    - 20609
+    - 20609
+  label: 入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-119
+    span:
+    - body
+    - 20713
+    - 20713
+  label: 太平坦老秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-120
+    span:
+    - body
+    - 20887
+    - 20887
+  label: 興菴主秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-121
+    span:
+    - body
+    - 21153
+    - 21153
+  label: 宣首座秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-122
+    span:
+    - body
+    - 21274
+    - 21274
+  label: 演監寺入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-123
+    span:
+    - body
+    - 21336
+    - 21336
+  label: 資上人入塔(育王秀嵓會中時佛照居東庵)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-124
+    span:
+    - body
+    - 21399
+    - 21399
+  label: 覺維郍入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-125
+    span:
+    - body
+    - 21438
+    - 21438
+  label: 顯上人入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-126
+    span:
+    - body
+    - 21479
+    - 21479
+  label: 秀浴主入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-127
+    span:
+    - body
+    - 21526
+    - 21526
+  label: 荊知客秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-128
+    span:
+    - body
+    - 21602
+    - 21602
+  label: 真西堂秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-129
+    span:
+    - body
+    - 21682
+    - 21682
+  label: 旦過二僧秉炬(一人四明一人處州)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-130
+    span:
+    - body
+    - 21746
+    - 21746
+  label: 通大師入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-131
+    span:
+    - body
+    - 21839
+    - 21839
+  label: 無極和尚掛真
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-132
+    span:
+    - body
+    - 22016
+    - 22016
+  label: 掛真
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-133
+    span:
+    - body
+    - 22117
+    - 22117
+  label: 圭法公起骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-134
+    span:
+    - body
+    - 22150
+    - 22150
+  label: 安法公秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-135
+    span:
+    - body
+    - 22201
+    - 22201
+  label: 園頭智守秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-136
+    span:
+    - body
+    - 22247
+    - 22247
+  label: 錢承事起材
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-137
+    span:
+    - body
+    - 22396
+    - 22396
+  label: 秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-138
+    span:
+    - body
+    - 22488
+    - 22488
+  label: 陸氏撒骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-139
+    span:
+    - body
+    - 22608
+    - 22608
+  label: 沈太君起材
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-140
+    span:
+    - body
+    - 22755
+    - 22755
+  label: 煆髮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0299_X_001-mulu-141
+    span:
+    - body
+    - 22795
+    - 22795
+  label: No. 1365-D
+  type: mulu
+  level: 1
+hash: sha256:70e6e0b7f8f3a315eddb9ce65b248048c4e20d993a9eb61db7151e0c9e38e3f3
