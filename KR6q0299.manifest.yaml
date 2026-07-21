@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0299_000.yaml, hash: 'sha256:d07981a48bd17bdd8763347947e1fd258ead3cb7fe20310276abf1a053adb8ab'}
+  - {seq: 0, filename: KR6q0299_000.yaml, hash: 'sha256:16412f5c2d2bf7432e6d2e9673cdd2a57b0ec30817d509708e7236fca9765161'}
   - {seq: 1, filename: KR6q0299_001.yaml, hash: 'sha256:e28b1382f4b96b7728ec79a2f75ce882c83da4eb91a56843ad920faa6329c241'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0299_000.markers.yaml, hash: 'sha256:8cdf22d5104575c110a2122af01da3ab1350826b7f0dd8a7bec2755239d571c0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0299_000.markers.yaml, hash: 'sha256:3a58825d516453d0adb9b5d3cafa62e2c38d1edac1d6d06a187c0dd7d91d6940'}
   - {seq: 1, role: markers, filename: assets/KR6q0299_001.markers.yaml, hash: 'sha256:5449df1e2118d6a2f7e8970a5e2f5e85ba10b42feecddee1a001a18a15a4a083'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0299_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1365-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0299_X_000-mulu-2
     span:
-    - front
+    - body
     - 213
     - 213
   label: No. 1365-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0299_X_000-mulu-3
     span:
-    - front
+    - body
     - 369
     - 369
   label: No. 1365-C
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0299_X_000-mulu-4
     span:
-    - front
+    - body
     - 453
     - 453
   label: 北磵和尚語錄目次
@@ -1487,7 +1487,7 @@ table_of_contents:
   label: No. 1365-D
   type: mulu
   level: 1
-hash: sha256:b31b8f291345625e69a257fa4574c613920fc527f888d7f7c7ba3332c3788545
+hash: sha256:48b249d8aceb37ec2df2a13036f4898aa438a7dc4d575b9e918651e68da0cb14
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
